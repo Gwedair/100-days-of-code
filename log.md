@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ 100 Days Of Code - Log
 
 
 ### Day 1: January 08, Monday
@@ -11,3 +11,15 @@ This will need some hard work to get back into android and programming in genera
 
 **Link(s) to work**
 No links to work yet, as soon as there is a basic structure will probably upload it. 
+
+### Day 2: January 09, Tuesday
+**Today's Progress**: Did not have enough time to continue on the android project as it needs lot of setup until I can test my applications. Continued coding on HackerRank by solving the Closed Brackets-Challenge. 
+My C++ has also faded a lot but I begin to remember. Solved the challenge in a way that most Test Cases run smoothly. I don't know why the others don't work, their setup is to huge to check it manually. 
+Perhaps I'll continue with the android stuff tomorrow. 
+
+**Thoughts** Tackling the 100days of code challenge besides a 40hrs work week is challenging enough. The additional setup as for android takes even more time. This is hard for me. 
+
+** Link to work**
+HackerRank - Stacks: Balanced Brackets
+
+
