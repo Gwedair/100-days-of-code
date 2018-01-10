@@ -22,4 +22,11 @@ Perhaps I'll continue with the android stuff tomorrow.
 ** Link to work**
 HackerRank - Stacks: Balanced Brackets
 
+### Day 3: January 10, Wednesday
+**Today's Progress**: Forced myself to continue with this callenge though it will cost lots of sleep... Reawakening some knowledge about string and string operations in C++. My coding still feels very stubborn and I don't know how to improve it. 
 
+**Thoughts**This challenge will cost me some sleep in the long run and I need some days with more free time in order to do a proper setup for android if I want to continue on a real project instead of HackerRank. 
+
+**Link to work**
+HackerRank - Let's Review https://www.hackerrank.com/snippets/2205d4ab-040d-4921-9221-5302ee4a5e95/gwedairs-snippet-from-day-6-lets-review
+HackerRank - Arrays https://www.hackerrank.com/snippets/132ae364-297f-466a-8df3-e97cf7755399/gwedairs-snippet-from-day-7-arrays
