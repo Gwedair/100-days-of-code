@@ -30,3 +30,11 @@ HackerRank - Stacks: Balanced Brackets
 **Link to work**
 HackerRank - Let's Review https://www.hackerrank.com/snippets/2205d4ab-040d-4921-9221-5302ee4a5e95/gwedairs-snippet-from-day-6-lets-review
 HackerRank - Arrays https://www.hackerrank.com/snippets/132ae364-297f-466a-8df3-e97cf7755399/gwedairs-snippet-from-day-7-arrays
+
+### Day 4: January 11, Thursday
+**Today's Progress**: Dived into Regex to split a string up. Totally overkill but interesting nevertheless. 
+**Thoughts**: Today I would have like to spend the time for other things but I still kept doing the challenge ... tomorrow then... 
+**Link to work**
+HackerRank - Dictionaries and Maps https://www.hackerrank.com/snippets/3a9eb8de-cc4e-4f4a-b997-ceef47a6286d/gwedairs-snippet-from-day-8-dictionaries-and-maps
+
+
